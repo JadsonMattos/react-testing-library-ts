@@ -1,0 +1,1 @@
+{"fileName":"/home/jadsonmattos/sd-033-a-project-react-testing-library-ts/src/pages/PokemonDetails/PokemonDetails.tsx","id":"12","location":{"start":{"column":30,"line":34},"end":{"column":35,"line":34}},"mutatorName":"BooleanLiteral","replacement":"true","statusReason":"Ignored because of excluded mutation \"BooleanLiteral\"","status":"Ignored","static":false}

@@ -1,0 +1,1 @@
+{"fileName":"/home/jadsonmattos/sd-033-a-project-react-testing-library-ts/src/components/FavoriteInput/FavoriteInput.tsx","id":"0","location":{"start":{"column":50,"line":7},"end":{"column":1,"line":25}},"mutatorName":"BlockStatement","replacement":"{}","statusReason":"Ignored because of excluded mutation \"BlockStatement\"","status":"Ignored","static":false}
